@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Samples/XR Interaction Toolkit/2.5.2/Hands Interaction Demo/HandsDemoScene.unity
+    guid: 3ff35cecbcc52cc42945cf531638a60a
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 19c33bdd9f2ee16488876367a1d7095e, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 567f7086df233c7468721ffa604c56e2, type: 2}
